@@ -1,0 +1,12 @@
+#EXTM3U
+#EXTVLCOPT:network-caching=1000
+http://jovempanitajai.dyndns.org:8000/
+#EXTINF:0,tsfdirecto.mp3
+#EXTVLCOPT:network-caching=1000
+http://tsfdirecto.tsf.pt/tsfdirecto.mp3
+#EXTINF:0,m80
+#EXTVLCOPT:network-caching=1000
+http://mcrscast.mcr.iol.pt/m80
+#EXTINF:0,comercial.mp3
+#EXTVLCOPT:network-caching=1000
+http://mcrscast.mcr.iol.pt/comercial.mp3
